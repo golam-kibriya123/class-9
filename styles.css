@@ -15,7 +15,7 @@ body{
     color: rgb(179, 14, 179);
 
 }
-#caption2{
+.caption2{
 color:#2ecc71;
 
 } 
@@ -24,7 +24,7 @@ color:#2ecc71;
     margin-right: auto;
     width: 600px;
     height: 250px;
-    background-color: rgb(185, 167, 3);
+    background-color: #85ec71;
 }
 form{
     padding-top:100px;
@@ -32,7 +32,7 @@ form{
     
 }
 .input{
-    background-color: rgb(188, 216, 30);
+    background-color: #a0e991;
 }
 .button{
     color:white;
